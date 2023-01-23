@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+    width: auto;
+}
+.navv{
+    padding: 0px;
+    background-color: rgb(27, 27, 79);
+    height: 3rem;
+    margin-right:0%;
+}
+.containt{
+    display:flex;
+    list-style: none;
+    float: right;
+    margin-right:3rem;
+    margin-top:15px;
+}
+.tab{
+    margin-right: 2rem;;
+    color:rgb(255, 0, 0);
+    text-decoration-line: none;
+    
+    text-align: center;
+    font-style:oblique;
+    padding:5px;
+}

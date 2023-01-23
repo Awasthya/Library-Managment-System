@@ -1,0 +1,34 @@
+*{
+    overflow:hidden;
+}
+.icon{
+    width:50%;
+    height:auto;
+}
+.icon1{
+    margin-left:1%;
+    width:5rem;
+    height: auto;
+    padding:0%;
+}
+.lab{
+    margin-left:0%;
+}
+.containtt{
+    display: flex;
+    justify-content: space-between;
+    margin-top:13%;
+}
+.container{
+    padding: 10px;
+}
+.text{
+    margin:0%;
+    padding:0%;
+    margin-right:0px;
+}
+.x{
+    margin:0px;
+    padding:0px;
+
+}

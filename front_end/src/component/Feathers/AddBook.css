@@ -1,0 +1,39 @@
+.AddBookbox{
+    display: flex;
+    flex-direction: column;
+    margin-left:0px;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+    border-radius: 10px;
+    width:70%;
+    align-items: center;
+    margin-left:20%;
+    border: 5px solid black;
+}
+.lab{
+    font-size : 16px;
+}
+.but{
+    width:15rem;
+    height:2rem;
+    border-radius: 10px;
+    background-color:orange;
+}
+.content{
+    margin-top:20px;
+    padding-bottom:3%;
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+}
+label{
+    
+}
+.input{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left:70px;
+    width:auto;
+}
